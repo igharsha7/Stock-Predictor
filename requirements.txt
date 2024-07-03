@@ -5,3 +5,5 @@ pandas-datareader
 yfinance
 streamlit
 streamlit-searchbox
+tensorflow
+scikit-learn
